@@ -31,7 +31,7 @@ const Giphy = () =>  {
         try { 
         const results = await axios("https://api.giphy.com/v1/gifs/trending", {
         params: {
-            api_key: "EHJWnmARPJfgSgaToHjpuISipYUaFsmR", 
+            api_key: "YOUR_API_KEY", 
         }
         }); //pass it into [] empty dependency array 
         console.log(results); 
@@ -89,7 +89,7 @@ const Giphy = () =>  {
         const results = await axios("http://api.giphy.com/v1/gifs/search", 
             {
                 params: {
-                    api_key: "EHJWnmARPJfgSgaToHjpuISipYUaFsmR", 
+                    api_key: "YOUR_API_KEY", 
                     q: search, 
                     limit: 1000
                 }
