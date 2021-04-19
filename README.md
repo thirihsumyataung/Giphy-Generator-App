@@ -6,7 +6,7 @@ Giphy API which is used in this App is from GIPHY developer website (https://dev
 
 ### https://thirihsumyataung.github.io/Giphy-Generator-App/
 
-### `npm start`
+### `Beginner Warning...`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
