@@ -1,6 +1,6 @@
 # Giphy Generator App 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Giphy API which is used in this App is from GIPHY developer website (https://developers.giphy.com). 
 
 ## Available Scripts
 
