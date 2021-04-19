@@ -14,9 +14,16 @@ Don't forget to add 'homepage' and 'script' the package.json file before you dep
 
 Step 1: `npm install gh-pages`
 
-###
+Step 2: Add "homepage" in package.json `"homepage": "https://thirihsumyataung.github.io/Giphy-Generator-App",` 
 
+Step 3: Add predeploy and deploy in scripts 
 
+  "scripts": { 
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+
+Step 4: `npm run deploy`
 
 
 
