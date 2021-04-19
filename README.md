@@ -12,7 +12,7 @@ Don't forget to add 'homepage' and 'script' the package.json file before you dep
 
 ### `For MAC User `
 
-###`npm install gh-pages`
+### `npm install gh-pages`
 
 ###
 
