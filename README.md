@@ -4,7 +4,7 @@ Giphy API which is used in this App is from GIPHY developer website (https://dev
 
 ## Deployed this project on GitHub page 
 
-### https://developers.giphy.com
+### https://thirihsumyataung.github.io/Giphy-Generator-App/
 
 ### `npm start`
 
