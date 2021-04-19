@@ -2,9 +2,9 @@
 
 Giphy API which is used in this App is from GIPHY developer website (https://developers.giphy.com). 
 
-## Available Scripts
+## Deployed this project on GitHub page 
 
-In the project directory, you can run:
+### https://developers.giphy.com
 
 ### `npm start`
 
