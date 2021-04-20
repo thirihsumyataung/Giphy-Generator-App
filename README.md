@@ -6,6 +6,8 @@ Giphy API which is used in this App is from GIPHY developer website (https://dev
 
 ### https://thirihsumyataung.github.io/Giphy-Generator-App/
 
+Notes: Pagination Component is not working when I deployed this app, that is why I didn't use that component but it worked well on localhost.
+
 ### `Beginner Warning...`
 
 Don't forget to add 'homepage' and 'script' the package.json file before you deploy your project. 
