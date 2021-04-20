@@ -14,7 +14,8 @@ Don't forget to add 'homepage' and 'script' the package.json file before you dep
 
 Step 1: `npm install gh-pages`
 
-Step 2: Add "homepage" in package.json `"homepage": "https://ur-GitHub-username.github.io/ur-Repository",` 
+Step 2: Add "homepage" in package.json 
+        `"homepage": "https://ur-GitHub-username.github.io/ur-Repository",` 
 
 Step 3: Add predeploy and deploy in scripts 
 
